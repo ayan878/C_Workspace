@@ -10,8 +10,7 @@ int main() {
     for (i = 0; i < n; i++) {
         for (j = 0; j < n; j++) {
             printf("Enter element:a[%d][%d]:",a[i][j]);
-            scanf("%d", & a[i][j]);
-             
+            scanf("%d", & a[i][j]);    
         }
         
     }
