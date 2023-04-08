@@ -1,0 +1,39 @@
+There are two types of error
+1.syntax error
+2.Runtime error
+
+Syntax error:
+The error which occures bcz of invalid syntax considred as syntax error.
+Programmer is reposndible to correct these syntax error once syntax error are corrected only  then Program will be excuted.
+
+Runtime:
+it is also known as exception.while excuring your Program at runtime is something goes wrong bcz of end user input,memory problem, programming logic.then runtime error will occures
+note:exception handling applicale for runtime error but not for syntax error.
+
+#1. Zero division error
+#2. name error
+#3. type error print('10'+10) 
+#4. value error
+#5. Index error
+#6. Key error
+
+####################################################################################################################
+#                                               numPy                                                             #
+####################################################################################################################
+
+# it is a fundamental Package for scientific computing in python .it is python librray that provide multidimensional object and various derieved object.
+# Numpy is a grid ( 1D,2D,3D,Multidimensional)of value and it contains inforamtion about raw data
+#NumPy vs Array
+# it consume less memory comapring to list
+# it is fast excution comparing to list
+# it is convineint to use
+to install numPy cmd pip install numpy
+
+#############################################################################################################
+#                             Random function                                                               #
+#                                                                                                           #
+#############################################################################################################
+
+# The rand() function is used to generate a random value between zero to 1
+
+var =np.random.rand(4);
