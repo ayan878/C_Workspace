@@ -37,3 +37,5 @@ to install numPy cmd pip install numpy
 # The rand() function is used to generate a random value between zero to 1
 
 var =np.random.rand(4);
+
+Pandas is  a python libraay used to working with data set it has function for analysing , cleaning ,exploring , manuapating data,
