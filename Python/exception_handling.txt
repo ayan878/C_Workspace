@@ -38,4 +38,17 @@ to install numPy cmd pip install numpy
 
 var =np.random.rand(4);
 
-Pandas is  a python libraay used to working with data set it has function for analysing , cleaning ,exploring , manuapating data,
+Pandas is  a python libraay used to working with data set it has function for analysing , cleaning ,exploring , manuapating data.
+
+1. Series: 1d Array, 
+2.Dataframe:2D data struction,much like a table
+3.Panel: it is 3D container pf data
+
+mat.lib is used to data visualization
+
+Series : it is define as a 1D array that is capability of various data types
+
+Dataframe in Pandas:
+Pandas dataframe two dimentioanal size mutable poranatioanally , hetrogeneous tabular data structure with label axes(row and cloumns) in other simple form data is align in tabular fashion. 
+A pamdas dataframe is craeatted by loadinng by data set from existing storage(csv file,excell file)
+it access by pd.Dataframe()

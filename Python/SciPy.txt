@@ -1,0 +1,3 @@
+SciPy is a scientific computation library that uses NumPy underneath.
+SciPy stands for scientific python.
+itr provide more utility functions for optimizisation ,stats and signal
