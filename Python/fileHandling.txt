@@ -1,0 +1,31 @@
+file is named location on disk to store related information.
+it is used to store permanently store data in memory.
+there are three operation in file handling.
+1.open a file
+2. read/write a file
+3 close a file
+
+Python provide the complete function writinf , reading
+
+there are two types of file tha can be handled text file and bianry file.
+in Python, there is no need for importing extra library to read and write file.
+
+To create a text file in Python
+
+syntax:
+file-object = open("filename","access  mode")
+
+file access mode:
+it refers how the file will be used once open.
+these mode defined the location of the file handled in the files. 
+it is like a cursor  which define where data is to be read or return one the file.
+
+there are six access mode in Python.
+1. readOnly ('r'): open text file for reading.
+2. Read and write ('r+'): open text file for read and write.
+3. writeOnly ('w') : open  file for write only.
+4. write and read (w+): open text file for write and read.
+5. appendOnly ('a') :
+
+Question 
+distinguish between diffrent file mode explain each with the help an example

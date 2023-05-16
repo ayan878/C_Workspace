@@ -1,0 +1,10 @@
+Lenear Search:
+it scan one time at a time.
+it traverse every  item and doesn't jump at any item.
+Time taken to search element is proportioanl to number of element.
+Element by element search time complexity O(n).
+
+Binary Search:
+check whether the middle element is greater or smaller than the number in question
+Search run to either the half of the list.
+Time complexity is O(logn)

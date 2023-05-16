@@ -1,0 +1,14 @@
+Q1. Estimate area of an image using matplotlib
+Q2. Construct a line in diagram form position (0,0) to (6,250) usinng matplotlib.
+Q3. Identitify various plot using which can be created ussing python matplotlib.
+Q4. Analyze py function to draw pychart.
+Q5. Construct a circle using matplotlib.
+Q6. Describe the way 1d ,2d,3d array in numpy with proper example. hint rand
+Q7. Developed a numpy array suing a tupple.
+Q8. List the diffrenece between Numpy and Scipy
+Q8. Devloped a python code to find determinant of matrix. hint Numpy
+Q9. Devloped Normal Distribution using numpy and matplotlib.
+Q10.Wap to creating for an integer array with vslue belonging to the range 10 and 60.
+Q11.Evaluate average value of two given Numpy array.
+Q12.Evaluate roots of polynimial using Numpy.
+Q13.Evaluate numerial negative value for elements in a given Numpy array.
