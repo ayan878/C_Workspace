@@ -53,3 +53,18 @@ os.remove("Create.txt")
 
 x=np.array([1,2,3,4,5])
 print(x)
+y=np.array([[1,2,3],[4,5,6],[7,8,9]])
+print(y)
+
+z=np.array([[[1,2,3],[4,5,6],[7,8,9]]])
+print(z)
+
+# Create a 1D array filled with zeros
+arr1 = np.zeros(5)
+print(arr1)
+# Create a 2D array filled with zeros
+arr2 = np.zeros((3, 4))
+print(arr2)
+# Create a 3D array filled with zeros
+arr3 = np.zeros((2, 3, 4))
+print(arr3)
