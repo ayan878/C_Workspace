@@ -2,8 +2,9 @@
 # Linear search
 def linearSearch(arr,target):
     for i in range(len(arr)):
-        arr[i]=target
-    return -1    
+        if arr[i]==target:
+            return i
+    return -1 # return -1 if the target not found    
 
 # Binary search
 def binary_search(arr, target):
@@ -22,7 +23,7 @@ def binary_search(arr, target):
     return -1  # Return -1 if the target is not found
 
 # Example usage
-arr = [1, 2, 3, 7, 5, 8, 9]
+arr = [1, 2, 3, 4, 5, 8, 9]
 target = 4
 
 # Binary search
