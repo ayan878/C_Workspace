@@ -34,5 +34,3 @@ if linear_index !=-1:
     print("Linear search:Element",target,"at index",binary_index)
 else:
     print("Linear search:Element",target,"not found")
-
-
