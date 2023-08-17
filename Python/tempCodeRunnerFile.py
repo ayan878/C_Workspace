@@ -1,1 +1,3 @@
-data=file.read()
+temp = x
+# x = y
+# y = temp
